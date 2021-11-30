@@ -2,7 +2,7 @@
 
 I made it for the purpose of improving myself in Swift. You can review the screenshots of the application.
 
-![alt text](https://www.hizliresim.com/8gjdpt6)
+![alt text](https://i.hizliresim.com/akvr17s.png)
 ![alt text](https://www.hizliresim.com/s6xsvbi)
 ![alt text](https://www.hizliresim.com/5mc36ng)
 ![alt text](https://www.hizliresim.com/2bne37f)
